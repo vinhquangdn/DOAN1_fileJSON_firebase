@@ -1,0 +1,20 @@
+{
+  "He_thong_chong_trom": {
+    "Phong_1": {
+      "Btn_cb1": 0,
+      "Cam_bien_1": 1,
+      "Led_cam_bien_1": 0
+    },
+    "Phong_2": {
+      "Btn_cb2": 0,
+      "Cam_bien_2": 1,
+      "Led_cam_bien_2": 0
+    },
+    "Thiet_bi_bao_trom": {
+      "Btn_tbbt": 0,
+      "Chuong_canh_bao": 0,
+      "Led_canh_bao": 0,
+      "Led_thiet_bi": 0
+    }
+  }
+}
